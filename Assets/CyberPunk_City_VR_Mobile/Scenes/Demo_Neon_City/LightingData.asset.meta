@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ded1e3fe8b13ee54aa50b775cef1f086
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152575
+  packageName: CyberPunk City. VR and Mobile
+  packageVersion: 3.0
+  assetPath: Assets/CyberPunk_City_VR_Mobile/Scenes/Demo_Neon_City/LightingData.asset
+  uploadId: 389368

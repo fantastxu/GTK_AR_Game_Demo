@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c2f92a433c804e449fbfc9a2de6f0ea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152575
+  packageName: CyberPunk City. VR and Mobile
+  packageVersion: 3.0
+  assetPath: Assets/CyberPunk_City_VR_Mobile/Scripts/LODGroup.preset
+  uploadId: 389368

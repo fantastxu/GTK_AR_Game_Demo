@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2ddf788a649106b48934c9b7bf6be366
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 152575
+  packageName: CyberPunk City. VR and Mobile
+  packageVersion: 3.0
+  assetPath: Assets/CyberPunk_City_VR_Mobile/Scripts/SimpleCameraController.cs
+  uploadId: 389368
