@@ -62,7 +62,9 @@ namespace TheWorldBeyond.Environment.RoomEnvironment
             var smoothTimer = Mathf.Cos(Mathf.PI * EffectTimer / EFFECT_TIME) * 0.5f + 0.5f;
             foreach (var obj in WallDebris)
             {
-                obj.transform.localScale = Vector3.one * (PassthroughWallActive ? smoothTimer : (1.0f - smoothTimer));
+                // Keep wall grass hidden for Cyberpunk environment compatibility
+                obj.transform.localScale = Vector3.zero;
+                // Original forest environment behavior: obj.transform.localScale = Vector3.one * (PassthroughWallActive ? smoothTimer : (1.0f - smoothTimer));
             }
         }
 

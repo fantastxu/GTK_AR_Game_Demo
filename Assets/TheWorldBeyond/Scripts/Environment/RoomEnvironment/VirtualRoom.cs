@@ -224,6 +224,14 @@ namespace TheWorldBeyond.Environment.RoomEnvironment
         /// </summary>
         private IEnumerator GrowGrass(bool doGrow)
         {
+            // Keep room grass hidden for Cyberpunk environment compatibility
+            foreach (var obj in m_roomDebris)
+            {
+                obj.transform.localScale = Vector3.zero;
+            }
+            yield return null;
+
+            /* Original forest environment behavior:
             var timer = 0.0f;
             var growTime = 1.0f;
             while (timer <= growTime)
@@ -237,6 +245,7 @@ namespace TheWorldBeyond.Environment.RoomEnvironment
                 }
                 yield return null;
             }
+            */
         }
 
         /// <summary>

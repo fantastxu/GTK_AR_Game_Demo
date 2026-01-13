@@ -27858,7 +27858,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 284114440051928315, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.2300005
+      value: 0.07999945
       objectReference: {fileID: 0}
     - target: {fileID: 284114440051928315, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -27866,7 +27866,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 284114440051928315, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -13.87
+      value: -15.88
       objectReference: {fileID: 0}
     - target: {fileID: 284114440051928315, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -27902,7 +27902,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 629008884352874049, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1774305031032359601, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: Loop
@@ -27911,7 +27911,7 @@ PrefabInstance:
     - target: {fileID: 1774305031032359601, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 208fb7480504181499b00700d9c4caf3, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 1774305031032359601, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: OutputAudioMixerGroup
       value: 
@@ -27927,7 +27927,7 @@ PrefabInstance:
     - target: {fileID: 2586997719751028564, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 7e886008d060dd84a8a350a24bcb7c71, type: 3}
+      objectReference: {fileID: 0}
     - target: {fileID: 7376466610332953822, guid: cde93055fa51ae14895cbcde3031c6e7, type: 3}
       propertyPath: audioSource
       value: 
@@ -102477,7 +102477,7 @@ Transform:
   m_GameObject: {fileID: 1927583713}
   serializedVersion: 2
   m_LocalRotation: {x: 0.33821508, y: 0.206138, z: -0.08442313, w: 0.9143251}
-  m_LocalPosition: {x: -3.3, y: 1.45, z: -11.86}
+  m_LocalPosition: {x: 1.01, y: 1.45, z: -13.87}
   m_LocalScale: {x: 1, y: 0.1, z: 5}
   m_ConstrainProportionsScale: 0
   m_Children:
