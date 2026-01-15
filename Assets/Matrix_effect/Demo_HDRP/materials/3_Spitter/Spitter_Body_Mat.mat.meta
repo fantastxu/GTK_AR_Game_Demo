@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c3fc988953557a744943d6923d0e8241
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/3_Spitter/Spitter_Body_Mat.mat
+  uploadId: 660211

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4514984938dd4a741ab894d309242597
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_Built-In/materials/5_Gunner_matrix/matrix_Gunner_Mat.mat
+  uploadId: 660211

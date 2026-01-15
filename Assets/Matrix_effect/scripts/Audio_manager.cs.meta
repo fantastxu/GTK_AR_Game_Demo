@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b96b0937dada25c419b887179e4fc332
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/scripts/Audio_manager.cs
+  uploadId: 660211

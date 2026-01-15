@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 44f023e75c13ffe4382488bdd53ee3d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/1_Ellen/Ellen_Eyes_Mat.mat
+  uploadId: 660211

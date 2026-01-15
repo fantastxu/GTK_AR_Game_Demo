@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 43f8907ce53f60149823916866c8bfe1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/scripts/Rotate_self.cs
+  uploadId: 660211

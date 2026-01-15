@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe23ca7194cf1d64d93d0a802892ddf3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/2_Chomper/Chomper.mat
+  uploadId: 660211

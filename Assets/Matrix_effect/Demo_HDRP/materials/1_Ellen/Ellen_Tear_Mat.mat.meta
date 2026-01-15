@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 032f2f47a2547374f8d3170682c1dde8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/1_Ellen/Ellen_Tear_Mat.mat
+  uploadId: 660211

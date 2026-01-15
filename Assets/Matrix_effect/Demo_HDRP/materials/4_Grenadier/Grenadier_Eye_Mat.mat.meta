@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c65a4410e7ffee64cbcf6eae7054785d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/4_Grenadier/Grenadier_Eye_Mat.mat
+  uploadId: 660211

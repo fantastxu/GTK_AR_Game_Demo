@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb60c6d17344cc54f99c2975c6e2d2c4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_Built-In/materials/4_Grenadier_matrix/matrix_Grenadier_Eye_Mat.mat
+  uploadId: 660211

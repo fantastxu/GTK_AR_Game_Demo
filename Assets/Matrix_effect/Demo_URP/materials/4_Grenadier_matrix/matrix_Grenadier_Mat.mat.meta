@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58b9544885d5a0e4f84cbfdc83d13049
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/4_Grenadier_matrix/matrix_Grenadier_Mat.mat
+  uploadId: 660211

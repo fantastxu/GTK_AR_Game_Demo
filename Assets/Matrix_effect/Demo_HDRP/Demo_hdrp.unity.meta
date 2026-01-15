@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6d6177b7c44e4af4b8e32074ad0095a0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/Demo_hdrp.unity
+  uploadId: 660211

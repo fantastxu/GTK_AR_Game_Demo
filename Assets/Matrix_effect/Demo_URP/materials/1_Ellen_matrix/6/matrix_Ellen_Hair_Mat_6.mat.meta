@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 213310cb95d841747813d0890186e0c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/1_Ellen_matrix/6/matrix_Ellen_Hair_Mat_6.mat
+  uploadId: 660211

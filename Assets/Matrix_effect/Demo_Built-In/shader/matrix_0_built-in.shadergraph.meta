@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aaf85b2713c0e08408479ed03d8ccca1
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_Built-In/shader/matrix_0_built-in.shadergraph
+  uploadId: 660211

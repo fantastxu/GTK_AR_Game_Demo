@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa3d97a2d4dbf544aa409a773ae39212
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_Built-In/materials/Ground.mat
+  uploadId: 660211

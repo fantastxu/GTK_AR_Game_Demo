@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d9fd965f90359cb4c84e15e828130b6d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/1_Ellen_matrix/5/matrix_Ellen_Body_Mat_5.mat
+  uploadId: 660211

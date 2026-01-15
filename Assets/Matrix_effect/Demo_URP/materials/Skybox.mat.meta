@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bf3503bc982e9604696be14e7c0b56b1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/Skybox.mat
+  uploadId: 660211

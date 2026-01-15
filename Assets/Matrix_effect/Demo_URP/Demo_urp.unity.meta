@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5915b1680eb903040b2e8754976bc2f8
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/Demo_urp.unity
+  uploadId: 660211

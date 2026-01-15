@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51f015340c2279742b1d522a7a97debc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/5_Gunner/Gunner_Core_Mat.mat
+  uploadId: 660211

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cc15183c9898cb4cb89d73df83f5e16
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/1_Ellen_matrix/1/matrix_Ellen_Head_Mat_1.mat
+  uploadId: 660211

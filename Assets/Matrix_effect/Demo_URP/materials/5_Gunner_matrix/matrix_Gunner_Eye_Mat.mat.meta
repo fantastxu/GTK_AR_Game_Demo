@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 668a585284a9a894aba066bb1e899a0e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_URP/materials/5_Gunner_matrix/matrix_Gunner_Eye_Mat.mat
+  uploadId: 660211

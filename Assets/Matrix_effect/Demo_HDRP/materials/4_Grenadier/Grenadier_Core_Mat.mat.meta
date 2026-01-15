@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6219f6a35f042e48a4e5e9b223d0a5e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 283570
+  packageName: Matrix Effect
+  packageVersion: 1.0
+  assetPath: Assets/Matrix_effect/Demo_HDRP/materials/4_Grenadier/Grenadier_Core_Mat.mat
+  uploadId: 660211
