@@ -23,6 +23,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_37674cee22c44c9bb19484568a3bf7ab:
+        m_Texture: {fileID: 2800000, guid: 2b84de452dad8f94db0dc123846d52f5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _FogCubemap:
         m_Texture: {fileID: 8900000, guid: 4d043ac33104b5f43a36bcba3a77681f, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -43,17 +47,30 @@ Material:
         m_Texture: {fileID: 2800000, guid: a14630f0abeacc143b2fe7ca5ff6f57b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ec9e06c8b60341498767d34088274416_Texture_1_Texture2D:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - Vector1_CA5DE183: 0
+    - Vector1_CA5DE183_1: 0.25
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _DropDensity: 1
+    - _DropLength: 0.6
+    - _DropSpeed: 0.5
     - _EffectTimer: 1
+    - _FadeLength: 0.4
     - _FogEndDistance: 6
     - _FogExponent: 0.16
     - _FogStartDistance: 0
     - _FogStrength: 0.5
+    - _HeadBrightness: 2.5
     - _InvertedMask: 1
     - _MaskOffsetMultiplier: 2
     - _MaskRippleStrength: 0
@@ -63,7 +80,10 @@ Material:
     - _OppyRippleStrength: 1
     - _SaturationAmount: 1
     - _TriPlanarFalloff: 7.4
+    - _emission_strength: 1
     m_Colors:
+    - Color_7e39ef67e7bc4994b9a2db1a1f67e93b: {r: 0, g: 7.1297374, b: 0.30445886, a: 0}
+    - Vector2_96ffc35c0ae54303a2af21cbfe685859: {r: 0.3, g: 0.3, b: 0, a: 0}
     - _Color: {r: 0, g: 0, b: 0, a: 1}
     - _EffectPosition: {r: 0, g: 1000, b: 0, a: 1}
     - _MaskTiling: {r: 0.5, g: 0.5, b: 0, a: 0}
