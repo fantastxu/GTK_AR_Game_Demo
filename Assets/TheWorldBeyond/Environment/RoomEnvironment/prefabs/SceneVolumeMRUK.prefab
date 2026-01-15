@@ -100,7 +100,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fe08ebecb2acc634da8d366788135763, type: 2}
+  - {fileID: 2100000, guid: 38fc34541dfb13b419fd9a25c60093cc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PassthroughMesh: {fileID: 502283750161808342}
-  DarkRoomMaterial: {fileID: 2100000, guid: 79615458149184b47a963a27b26fd6d9, type: 2}
+  DarkRoomMaterial: {fileID: 2100000, guid: 38fc34541dfb13b419fd9a25c60093cc, type: 2}
   SurfaceID: 0
   Dimensions: {x: 1, y: 1, z: 1}
   IsWall: 0
